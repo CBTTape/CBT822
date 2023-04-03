@@ -1,0 +1,23 @@
+2023-04-03 02:55:54.618486 - Initialized conversion of CBT822
+2023-04-03 02:55:54.780784 - Received CBT.V504.FILE822.PDS from FILE822.XMI 
+2023-04-03 02:55:54.783582 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:55:54.784802 - Found $$DOC.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/$$DOC
+2023-04-03 02:55:54.785902 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:55:54.787095 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/$$NOTE2
+2023-04-03 02:55:54.788136 - Found $CHANGES.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/$CHANGES
+2023-04-03 02:55:54.789069 - Found $INSTALL.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/$INSTALL
+2023-04-03 02:55:54.789079 - Found $OBJECT1.bin containing application/octet-stream, moved to PDS/$OBJECT1
+2023-04-03 02:55:54.790090 - Found $OBJECT2.bin containing application/octet-stream, moved to PDS/$OBJECT2
+2023-04-03 02:55:54.791061 - Found $OBJECT3.bin containing application/octet-stream, moved to PDS/$OBJECT3
+2023-04-03 02:55:54.792061 - Found $OBJECT4.bin containing application/octet-stream, moved to PDS/$OBJECT4
+2023-04-03 02:55:54.794041 - Found @FILE822.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/@FILE822
+2023-04-03 02:55:54.795154 - Found ABENDER.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/ABENDER
+2023-04-03 02:55:54.796153 - Found ASSEM.jcl (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/ASSEM
+2023-04-03 02:55:54.797042 - Found CPULOG.jcl (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/CPULOG
+2023-04-03 02:55:54.797941 - Found CPUUTIL1.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/CPUUTIL1
+2023-04-03 02:55:54.799301 - Found DYBACKUP.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/DYBACKUP
+2023-04-03 02:55:54.800469 - Found HOWCALLD.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/HOWCALLD
+2023-04-03 02:55:54.801605 - Found JUL2GREG.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/JUL2GREG
+2023-04-03 02:55:54.802533 - Found LINKEDIT.jcl (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/LINKEDIT
+2023-04-03 02:55:54.803610 - Found SOFTCAPI.txt (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/SOFTCAPI
+2023-04-03 02:55:54.804588 - Found STCJOB.jcl (text/plain) in CBT.V504.FILE822.PDS, moved to PDS/STCJOB
